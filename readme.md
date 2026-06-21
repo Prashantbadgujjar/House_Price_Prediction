@@ -80,8 +80,6 @@ House_Price_Prediction/
 
 ## Future Improvements
 
-* Cloud Deployment
 * Improved User Interface
 * Prediction History Tracking
-* Advanced Feature Engineering
 
