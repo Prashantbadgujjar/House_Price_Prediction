@@ -63,6 +63,14 @@ House_Price_Prediction/
 └── .gitignore
 ```
 
+## Model Performance
+
+|      Metric      |      Score      |
+|------------------|-----------------|
+|       RMSE       |     36,062.56   |
+|       MAE        |     24,559.88   |
+|     R² Score     |     0.903       |
+
 ## Screenshots
 
 ### Home Page
